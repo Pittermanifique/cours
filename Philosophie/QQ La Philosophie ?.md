@@ -19,6 +19,13 @@ La philosophie a donc pour objectif de répondre à des problèmes de manière o
 La philosophie est donc la science des problèmes.
 
 Les philosophes écrivent des thèses et non des d'opinions (ils ne font pas de la philodoxie).
+
+# Conclusion
+
+On comprend pourquoi il faut différencier les thèses des opinions. Il faut mettre en rapport la thèse et le problème associé.
+
+*Citation* : "il n'y a point de philosophies que l'on puisse apprendre, on ne peut qu'apprendre à philosopher."
+
 # Les types de philosophies
 
 Il existe plusieurs types de philosophie :
@@ -26,10 +33,6 @@ Il existe plusieurs types de philosophie :
 - la métaphysique (philosophie de l'être, l'identité, l'espace, le temps…)
 - l’éthique (philosophie morale, pratique, politique)
 - l’esthétique (philosophie de l'art, du beau)
-
-# Bonus
-
-Le symbole de la philosophie est la chouette de minerve, elle s'éveille une fois que la journée est passée, commet la philosophie une fois que le savoir est passé.
 
 
 
