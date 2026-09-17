@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0c1e15572ed1cff",
+        "id": "893cb6f15ad33901",
         "type": "tabs",
         "children": [
           {
-            "id": "81bb457ab60bf6c6",
+            "id": "cc19fc0d44a35488",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md"
+                "file": "Philosophie/Le Relativisme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Création de la philo"
+              "icon": "lucide-file",
+              "title": "Le Relativisme"
             }
           }
         ]
@@ -115,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+            "file": "Philosophie/Le Relativisme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+            "file": "Philosophie/Le Relativisme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -148,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+            "file": "Philosophie/Le Relativisme.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -156,9 +158,19 @@
           "icon": "lucide-list",
           "title": "Plan"
         }
+      },
+      {
+        "id": "c56637f9aed492fd",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81bb457ab60bf6c6",
+  "active": "cc19fc0d44a35488",
   "lastOpenFiles": [
+    "Philosophie/QQ La Philosophie .md",
+    "Philosophie/Vrac.md",
+    "Philosophie/La Connaissance.md",
     "Philosophie/Schéma-Ilustrations/Cronologie.png",
-    "Philosophie/Schéma-Ilustrations/Création de la philo.md",
-    "Philosophie/QQ La Philosophie .md"
+    "Philosophie/Schéma-Ilustrations/Création de la philo.md"
   ]
 }
