@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "490b7c9b33405979",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfe78fabf1ea4e17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb0380e1661b7f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/QQ La Philosophie ?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QQ La Philosophie ?"
+            }
+          },
+          {
+            "id": "bb8aa2e3602f6c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/QQ La Philosophie ?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QQ La Philosophie ?"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "840a13ca696d5e8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f7d20b362190c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a2b758d697a2d66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "e9411d4b20ff090d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "cf7f038b5ae9c2f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05830a0f2bf701b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d4151a8abc85ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c95b94a4c58770e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Philosophie/Définitions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "795da8324d2f14ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Philosophie/Définitions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "c09787e530820b89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "070f4b4928c4e0b6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "0ef737059b3e0e3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Philosophie/QQ La Philosophie ?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "4df2c37e4c5415c3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cb0380e1661b7f78",
+  "lastOpenFiles": [
+    "Philosophie/Le Relativisme.md",
+    "Philosophie/La Connaissance.md",
+    "README.md",
+    "Philosophie/Définitions.md",
+    "Philosophie/QQ La Philosophie ?.md",
+    "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+    "Philosophie/Schéma-Ilustrations",
+    "Philosophie/Schéma-Ilustrations/Cronologie.png",
+    "Sans titre.base",
+    "2026-09-15.md",
+    "Sans titre.canvas",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Excalidraw",
+    "Excalidraw/Drawing 2026-09-10 21.25.39.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-10 21.22.30.excalidraw.md",
+    "Philosophie",
+    "Bienvenue.md"
+  ]
+}
