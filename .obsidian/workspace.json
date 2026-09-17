@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Définitions"
             }
-          },
-          {
-            "id": "882b8c2d64c5c5a9",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
-                "bFile": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Création de la philo  (Working Tree)"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Philosophie/Définitions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,7 +186,7 @@
             }
           },
           {
-            "id": "4df2c37e4c5415c3",
+            "id": "d5a7f8eae10f1159",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -229,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "882b8c2d64c5c5a9",
+  "active": "0ef737059b3e0e3c",
   "lastOpenFiles": [
+    "Philosophie/QQ La Philosophie .md",
     "conflict-files-obsidian-git.md",
     "Philosophie/Vrac.md",
     "Philosophie/Schéma-Ilustrations/Création de la philo.md",
