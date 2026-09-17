@@ -34,5 +34,5 @@ Il existe plusieurs types de philosophie :
 - l’éthique (philosophie morale, pratique, politique)
 - l’esthétique (philosophie de l'art, du beau)
 
-
+Test
 

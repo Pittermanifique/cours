@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/QQ La Philosophie .md",
+                "file": "Philosophie/La Connaissance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QQ La Philosophie"
+              "title": "La Connaissance"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Philosophie/QQ La Philosophie .md",
+            "file": "Philosophie/La Connaissance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Philosophie/QQ La Philosophie .md",
+            "file": "Philosophie/La Connaissance.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Philosophie/QQ La Philosophie .md",
+            "file": "Philosophie/La Connaissance.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81bb457ab60bf6c6",
+  "active": "c56637f9aed492fd",
   "lastOpenFiles": [
+    "Philosophie/QQ La Philosophie .md",
     "Philosophie/Schéma-Ilustrations/Cronologie.png",
-    "Philosophie/Schéma-Ilustrations/Création de la philo.md",
-    "Philosophie/QQ La Philosophie .md"
+    "Philosophie/Schéma-Ilustrations/Création de la philo.md"
   ]
 }
