@@ -16,6 +16,8 @@ On ne peut pas apprendre ce que l'on ne sait pas ignorer, car nous sommes ignora
 
 La philosophie a donc pour objectif de répondre à des problèmes de manière objective, pas de problème pas de philosophie. (on doit créer des problèmes sur nos "connaissances")
 
+La philosophie est donc la science des problèmes.
+
 Les philosophes écrivent des thèses et non des d'opinions (ils ne font pas de la philodoxie).
 # Les types de philosophies
 

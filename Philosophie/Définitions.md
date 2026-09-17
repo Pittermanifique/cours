@@ -21,3 +21,8 @@ Règle/objectif personnel de vie.
 # Philodoxie
 C'est l'amour de l'opinion.
 Du grec `philo` l'amour et de `doxa` l'opinion.
+# Principe
+Ce qui est premier.
+Ce qui est commandé.
+# Scepticisme
+Le scepticisme est une position philosophique selon laquelle l'esprit humain ne peut atteindre aucune certitude absolue. Par extension, c'est une attitude de doute méthodique face aux affirmations, nécessitant des preuves solides avant de croire une information.

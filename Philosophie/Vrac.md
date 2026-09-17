@@ -1,0 +1,2 @@
+Réfutation != opinion
+Science != histoire
