@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0c1e15572ed1cff",
+        "id": "893cb6f15ad33901",
         "type": "tabs",
         "children": [
           {
-            "id": "81bb457ab60bf6c6",
+            "id": "cc19fc0d44a35488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/La Connaissance.md",
+                "file": "Philosophie/QQ La Philosophie .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Connaissance"
+              "title": "QQ La Philosophie"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Philosophie/La Connaissance.md",
+            "file": "Philosophie/QQ La Philosophie .md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Philosophie/La Connaissance.md",
+            "file": "Philosophie/QQ La Philosophie .md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Philosophie/La Connaissance.md",
+            "file": "Philosophie/QQ La Philosophie .md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -185,9 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c56637f9aed492fd",
+  "active": "cc19fc0d44a35488",
   "lastOpenFiles": [
     "Philosophie/QQ La Philosophie .md",
+    "Philosophie/Vrac.md",
+    "Philosophie/La Connaissance.md",
     "Philosophie/Schéma-Ilustrations/Cronologie.png",
     "Philosophie/Schéma-Ilustrations/Création de la philo.md"
   ]
