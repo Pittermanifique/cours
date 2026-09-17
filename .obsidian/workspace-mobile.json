@@ -11,12 +11,14 @@
             "id": "81bb457ab60bf6c6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md"
+                "file": "Philosophie/QQ La Philosophie .md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Création de la philo"
+              "icon": "lucide-file",
+              "title": "QQ La Philosophie"
             }
           }
         ]
@@ -115,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+            "file": "Philosophie/QQ La Philosophie .md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+            "file": "Philosophie/QQ La Philosophie .md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -148,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+            "file": "Philosophie/QQ La Philosophie .md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -156,9 +158,19 @@
           "icon": "lucide-list",
           "title": "Plan"
         }
+      },
+      {
+        "id": "c56637f9aed492fd",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
