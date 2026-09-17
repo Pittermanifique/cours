@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "13a19f5599e882c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0c1e15572ed1cff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81bb457ab60bf6c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Création de la philo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b53e1f66ca8abf73",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "13372ed28b0707e3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorateur de fichiers"
+        }
+      },
+      {
+        "id": "be1a6305b951dee4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Rechercher"
+        }
+      },
+      {
+        "id": "5526f0d112b03f36",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Mots-clés"
+        }
+      },
+      {
+        "id": "469ee3e22bc9ea2b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Toutes les propriétés"
+        }
+      },
+      {
+        "id": "6757ab8fc403b333",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Signets"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e3567654f4eb84d3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "62791fb331a0e14f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Rétroliens"
+        }
+      },
+      {
+        "id": "6e63448b84ed99e6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Liens sortants"
+        }
+      },
+      {
+        "id": "864bc9290d86c03d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Plan"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "81bb457ab60bf6c6",
+  "lastOpenFiles": [
+    "Philosophie/Schéma-Ilustrations/Cronologie.png",
+    "Philosophie/Schéma-Ilustrations/Création de la philo.md",
+    "Philosophie/QQ La Philosophie .md"
+  ]
+}
