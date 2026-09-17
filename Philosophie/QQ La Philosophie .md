@@ -33,3 +33,5 @@ Il existe plusieurs types de philosophie :
 - la métaphysique (philosophie de l'être, l'identité, l'espace, le temps…)
 - l’éthique (philosophie morale, pratique, politique)
 - l’esthétique (philosophie de l'art, du beau)
+
+Test
