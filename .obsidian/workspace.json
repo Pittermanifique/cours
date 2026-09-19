@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Définitions.md",
+                "file": "Philosophie/Explication de textes/Texte 1 Descartes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Définitions"
+              "title": "Texte 1 Descartes"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Vrac.md",
+                "file": "Devoirs/Philosophie/Explication texte 2 Aristote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vrac"
+              "title": "Explication texte 2 Aristote"
             }
           }
         ],
@@ -217,10 +217,15 @@
   },
   "active": "ad383b9a30d25194",
   "lastOpenFiles": [
+    "Philosophie/Explication de textes/Texte 1 Descartes.md",
+    "Devoirs/Philosophie/Explication texte 2 Aristote.md",
     "Philosophie/Définitions.md",
+    "Devoirs/Philosophie",
+    "Devoirs",
+    "Philosophie/Philosophes/Descartes.md",
+    "Philosophie/Vrac.md",
     "Philosophie/QQ La Philosophie .md",
     "conflict-files-obsidian-git.md",
-    "Philosophie/Vrac.md",
     "Philosophie/Schéma-Ilustrations/Création de la philo.md",
     "Philosophie/QQ La Philosophie ?.md",
     "Philosophie/Betises du prof.md",
@@ -228,10 +233,7 @@
     "Philosophie/Le Relativisme.md",
     "Philosophie/La Connaissance.md",
     "README.md",
-    "Philosophie/Philosophes/Descartes.md",
-    "Philosophie/Explication de textes/Texte 1 Descartes.md",
     "Philosophie/Philosophes",
-    "Sans titre",
     "Philosophie/Explication de textes",
     "Philosophie/Schéma-Ilustrations",
     "Philosophie/Schéma-Ilustrations/Cronologie.png",
