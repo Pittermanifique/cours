@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devoirs/Philosophie/Explication texte 2 Aristote.md",
+                "file": "Philosophie/QQ La Philosophie .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Explication texte 2 Aristote"
+              "title": "QQ La Philosophie"
+            }
+          },
+          {
+            "id": "62584ee5f522f352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/QQ La Philosophie .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QQ La Philosophie"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,16 +229,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a2b758d697a2d66",
+  "active": "62584ee5f522f352",
   "lastOpenFiles": [
-    "Philosophie/Explication de textes/Texte 1 Descartes.md",
+    "Philosophie/Vrac.md",
+    "Philosophie/Schéma-Ilustrations/L'éthique.md",
+    "Philosophie/QQ La Philosophie .md",
+    "Excalidraw",
     "Devoirs/Philosophie/Explication texte 2 Aristote.md",
+    "Philosophie/Explication de textes/Texte 1 Descartes.md",
     "Philosophie/Définitions.md",
     "Devoirs/Philosophie",
     "Devoirs",
     "Philosophie/Philosophes/Descartes.md",
-    "Philosophie/Vrac.md",
-    "Philosophie/QQ La Philosophie .md",
     "conflict-files-obsidian-git.md",
     "Philosophie/Schéma-Ilustrations/Création de la philo.md",
     "Philosophie/QQ La Philosophie ?.md",
@@ -242,7 +258,6 @@
     "Sans titre.canvas",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
-    "Excalidraw",
     "Excalidraw/Drawing 2026-09-10 21.25.39.excalidraw.md",
     "Excalidraw/Drawing 2026-09-10 21.22.30.excalidraw.md",
     "Philosophie",

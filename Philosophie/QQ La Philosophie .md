@@ -12,6 +12,8 @@ C'est ainsi que les philosophes cherchent à nous défaire de nos habitudes de p
 
 On ne peut pas apprendre ce que l'on ne sait pas ignorer, car nous sommes ignorants de notre propre ignorance.
 
+Il n'y a pas plus de sagesse dans la conscience ne pas l'avoir que dans l'illusion de l'avoir.
+
 # Objectif de la philosophie
 
 La philosophie a donc pour objectif de répondre à des problèmes de manière objective, pas de problème pas de philosophie. (on doit créer des problèmes sur nos "connaissances")
@@ -20,6 +22,9 @@ La philosophie est donc la science des problèmes.
 
 Les philosophes écrivent des thèses et non des d'opinions (ils ne font pas de la philodoxie).
 
+# Devenir philosophe
+
+Pierre Ado dit : Pour les anciens, on est philosophe non par l'originalité du discount que l'on a inventé, mais en fonction de la magnaire dont on vit. Il s'agit de devenir meilleur et le discours n'est vraiment philosophique que s'il se transforme en mode de vie.
 # Conclusion
 
 On comprend pourquoi il faut différencier les thèses des opinions. Il faut mettre en rapport la thèse et le problème associé.
