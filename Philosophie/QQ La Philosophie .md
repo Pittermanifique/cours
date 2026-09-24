@@ -24,7 +24,7 @@ Les philosophes écrivent des thèses et non des d'opinions (ils ne font pas de 
 
 # Devenir philosophe
 
-Pierre Ado dit : Pour les anciens, on est philosophe non par l'originalité du discount que l'on a inventé, mais en fonction de la magnaire dont on vit. Il s'agit de devenir meilleur et le discours n'est vraiment philosophique que s'il se transforme en mode de vie.
+Pierre hadot dit : Pour les anciens, on est philosophe non par l'originalité du discount que l'on a inventé, mais en fonction de la magnaire dont on vit. Il s'agit de devenir meilleur et le discours n'est vraiment philosophique que s'il se transforme en mode de vie.
 # Conclusion
 
 On comprend pourquoi il faut différencier les thèses des opinions. Il faut mettre en rapport la thèse et le problème associé.
