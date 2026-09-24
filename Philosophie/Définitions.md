@@ -26,3 +26,7 @@ Ce qui est premier.
 Ce qui est commandé.
 # Scepticisme
 Le scepticisme est une position philosophique selon laquelle l'esprit humain ne peut atteindre aucune certitude absolue. Par extension, c'est une attitude de doute méthodique face aux affirmations, nécessitant des preuves solides avant de croire une information.
+
+# Métaphysique
+La métaphysique est la branche de la philosophie qui étudie la nature fondamentale de la réalité.
+Signifie `au-delà de la physique`
