@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Le Relativisme.md",
+                "file": "Devoirs/Philosophie/Explication texte 2 Aristote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le Relativisme"
+              "title": "Explication texte 2 Aristote"
             }
           }
         ]
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Philosophie/Le Relativisme.md",
+            "file": "Philosophie/QQ La Philosophie .md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -185,12 +185,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc19fc0d44a35488",
+  "active": "c56637f9aed492fd",
   "lastOpenFiles": [
+    "Philosophie/Schéma-Ilustrations/Cronologie.png",
+    "Devoirs/Philosophie/Explication texte 2 Aristote.md",
     "Philosophie/QQ La Philosophie .md",
+    "Philosophie/Définitions.md",
+    "Philosophie/Schéma-Ilustrations/L'éthique.md",
+    "Philosophie/Le Relativisme.md",
     "Philosophie/Vrac.md",
     "Philosophie/La Connaissance.md",
-    "Philosophie/Schéma-Ilustrations/Cronologie.png",
     "Philosophie/Schéma-Ilustrations/Création de la philo.md"
   ]
 }
