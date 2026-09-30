@@ -25,6 +25,12 @@ Les philosophes écrivent des thèses et non des d'opinions (ils ne font pas de 
 # Devenir philosophe
 
 Pierre hadot dit : Pour les anciens, on est philosophe non par l'originalité du discount que l'on a inventé, mais en fonction de la magnaire dont on vit. Il s'agit de devenir meilleur et le discours n'est vraiment philosophique que s'il se transforme en mode de vie.
+
+# Aprandre la philosophie
+
+Pour aprrandre la philosophie il est nessésaire d'avoir un maitre a pansée c'est a dire une personne qui connais comment la pensée fonctione affait d'apprande a pensé par soit même.
+Celas pose un dilème en effect pour quoi doit donc obéire a un maitre pour apprande a penser par soit même ?
+le maitre a pansée n'est pas un gouroux, sont but n'est pas de panse r ala la place des autres mais plutôt a travailler a ca propre inutilitée.
 # Conclusion
 
 On comprend pourquoi il faut différencier les thèses des opinions. Il faut mettre en rapport la thèse et le problème associé.
