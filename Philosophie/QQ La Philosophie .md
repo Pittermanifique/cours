@@ -17,20 +17,22 @@ Il n'y a pas plus de sagesse dans la conscience ne pas l'avoir que dans l'illusi
 # Objectif de la philosophie
 
 La philosophie a donc pour objectif de répondre à des problèmes de manière objective, pas de problème pas de philosophie. (on doit créer des problèmes sur nos "connaissances")
-
 La philosophie est donc la science des problèmes.
-
 Les philosophes écrivent des thèses et non des d'opinions (ils ne font pas de la philodoxie).
 
 # Devenir philosophe
 
-Pierre hadot dit : Pour les anciens, on est philosophe non par l'originalité du discount que l'on a inventé, mais en fonction de la magnaire dont on vit. Il s'agit de devenir meilleur et le discours n'est vraiment philosophique que s'il se transforme en mode de vie.
-
-# Aprandre la philosophie
+Pierre Hadot dit : Pour les anciens, on est philosophe non par l'originalité du discount que l'on a inventé, mais en fonction de la magnaire dont on vit. Il s'agit de devenir meilleur et le discours n'est vraiment philosophique que s'il se transforme en mode de vie.
 
 Pour aprrandre la philosophie il est nessésaire d'avoir un maitre a pansée c'est a dire une personne qui connais comment la pensée fonctione affait d'apprande a pensé par soit même.
 Celas pose un dilème en effect pour quoi doit donc obéire a un maitre pour apprande a penser par soit même ?
-le maitre a pansée n'est pas un gouroux, sont but n'est pas de panse r ala la place des autres mais plutôt a travailler a ca propre inutilitée.
+Le maitre a pansé n'est pas un gourou, son but n'est pas de panse à la place des autres, mais plutôt à travailler à sa propre inutilité.
+
+# Objectif d'un philosophe
+
+Le philosophe cherche à mettre en mouvement la pansée des autres. Nous avons un sentiment subjectif de la réalité, il s'agit donc de déconstruire les illusion de notre pensée.
+Il y a pansé quand des idées circulent librement dans les esprits des personnes.
+
 # Conclusion
 
 On comprend pourquoi il faut différencier les thèses des opinions. Il faut mettre en rapport la thèse et le problème associé.
