@@ -24,14 +24,19 @@ Les philosophes écrivent des thèses et non des d'opinions (ils ne font pas de 
 
 Pierre Hadot dit : Pour les anciens, on est philosophe non par l'originalité du discount que l'on a inventé, mais en fonction de la magnaire dont on vit. Il s'agit de devenir meilleur et le discours n'est vraiment philosophique que s'il se transforme en mode de vie.
 
-Pour aprrandre la philosophie il est nessésaire d'avoir un maitre a pansée c'est a dire une personne qui connais comment la pensée fonctione affait d'apprande a pensé par soit même.
-Celas pose un dilème en effect pour quoi doit donc obéire a un maitre pour apprande a penser par soit même ?
+Pour appendre la philosophie il est nécessaire d'avoir un maitre a pansée c'est a dire une personne qui connais comment la pensée fonctionne affin d'apprande a pensé par soit même.
+Celas pose un dilème en effect pour quoi doit donc obéir a un maitre pour apprande a penser par soit même ?
 Le maitre a pansé n'est pas un gourou, son but n'est pas de panse à la place des autres, mais plutôt à travailler à sa propre inutilité.
 
 # Objectif d'un philosophe
 
 Le philosophe cherche à mettre en mouvement la pansée des autres. Nous avons un sentiment subjectif de la réalité, il s'agit donc de déconstruire les illusion de notre pensée.
 Il y a pansé quand des idées circulent librement dans les esprits des personnes.
+
+Socrate vit à Athene, la citée la plus savante de la grèce. Il montre qu'il y a trop de "savoirs" et qui est nessésair d'en purger le présjugés, les evidances et les certitudes car cette ville ne fait aps assez de reflection. Il est nessésaire de faire une catarcice.
+Pour cela socrat apliue sont discour socrtique, qui consite a su citer par le dialogue le questionnement de l'espris. Pour celas il utilize l'ironie socrastique qui a pour pricipe de faire croire a l'interlocuteur que l'on en sait moin que lui.
+
+Les sophistes en confirment le hommes dans l'opignon que tout est un savoir fair que l'opignoin doublée de elle même représente le pire forme d'ignorance car ce n'est pas un ignorance localisée mais un ignoranceenvaissante sourde et imperméabla a tout raison.
 
 # Conclusion
 

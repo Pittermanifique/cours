@@ -30,7 +30,10 @@ Le scepticisme est une position philosophique selon laquelle l'esprit humain ne 
 La métaphysique est la branche de la philosophie qui étudie la nature fondamentale de la réalité.
 Signifie `au-delà de la physique`
 # Préjugées
-Idée d'une obéissance passive et aveugle à des jugements que l'on reprend à notre compte sans jugement critique
+Idée d'une obéissance passive et aveugle à des jugements que l'on reprend à notre compte sans jugement critique.
 Signifie `avant de juger`
+
+# Maïotique
+L'art employer par socatre pour faire acoucher les espris.
 
 
